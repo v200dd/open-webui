@@ -226,7 +226,7 @@ This project is licensed under the [Open WebUI License](LICENSE), a revised BSD-
 
 ## Support 💬
 
-If you have any questions, suggestions, or need assistance, please open an 
+If you have any questions, suggestions, or need assistance, please
 
 
 
