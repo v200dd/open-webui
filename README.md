@@ -239,6 +239,5 @@ If you have any questions, suggestions, or need assistance, please open an issue
   </picture>
 </a>
 
----
 
 
